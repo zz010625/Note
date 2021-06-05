@@ -15,7 +15,7 @@
 
 请学长见谅
 
-<img src="https://github.com/zz010625/Note/blob/master/gif/Screenrecorder-2021-06-05-21-25-07-607.gif" width="50%" height="50%" alt=" "/><br/>
+<img src="https://github.com/zz010625/Note/blob/master/gif/Screenrecorder-2021-06-05-21-25-07-607.gif" width="40%" height="40%" alt=" "/><br/>
 
 
 
