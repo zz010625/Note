@@ -1,5 +1,5 @@
 # Note
-![image](https://github.com/zz010625/Note/blob/master/gif/Screenrecorder-2021-06-05-21-25-07-607.gif60)
+![image](https://github.com/zz010625/Note/blob/master/gif/Screenrecorder-2021-06-05-21-25-07-607.gif 400*300)
 
 
 使用了MVVM+DataBinding+LiveData
